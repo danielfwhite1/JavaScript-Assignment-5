@@ -16,9 +16,6 @@ class Wine {
 class Menu {
     constructor() {
         this.wines = [];
-        this.reds = [];
-        this.whites = [];
-        this.selectedWine = null;
     }
 
     start() {
